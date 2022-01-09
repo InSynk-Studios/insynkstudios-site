@@ -1,0 +1,4 @@
+[submodule "insynk-studios/public"]
+	path = insynk-studios/public
+	url = git@github.com:InSynk-Studios/insynk-studios.github.io.git
+	branch = main

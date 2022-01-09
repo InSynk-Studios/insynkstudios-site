@@ -1,0 +1,4 @@
+baseURL = "https://insynkstudios.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "navigator-hugo"
