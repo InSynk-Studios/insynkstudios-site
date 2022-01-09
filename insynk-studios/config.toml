@@ -58,7 +58,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo 
 button  = true
 btnText = "Know More"
 btnURL  = "https://themefisher.com/"
-videoThumb = "images/slider/video-player-thumb.jpg"
+videoThumb = "images/slider/hero.png"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section
@@ -125,12 +125,12 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "Rapid Prototyping and Validation of your Blockchain Ideas"
+heading = "Rapid Prototyping & Validation of your Blockchain Initiatives"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 button  = true
 btnText = "Know More"
 btnURL  = "https://themefisher.com/"
-videoThumb = "images/slider/video-player-thumb.jpg"
+videoThumb = "images/slider/hero.png"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section
