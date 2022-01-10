@@ -48,15 +48,13 @@
                             </li>
                             {{ end }}
                             {{ end }}
-                            <li class="nav-item d-none d-lg-block">
-                                <!-- Icones & drapeaux de choix des langues -->
+                            <!-- <li class="nav-item d-none d-lg-block">
                                 <div class="select-language nav-link">
-                                    <!-- Pour passer la langue actuelle (variable globale) dans la range => explicitement -->
                                     {{ range .Site.Params.listeLangues }}
                                     {{ partial "flags.html" (dict "site" $.Site "liste" .) }}
                                     {{ end }}
                                 </div>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </nav>

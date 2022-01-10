@@ -1,6 +1,6 @@
 {{ if .Site.Params.contact.enable }}
 {{ "<!-- Start Contact Us -->" | safeHTML }}
-<section class="contact-us section bg-gray" id="contact">
+<section class="contact-us section" id="contact">
     <div class="container">
         <div class="row">
             <div class="col">
@@ -16,13 +16,13 @@
         </div>
         <div class="row">
             {{ "<!-- Contact Details -->" | safeHTML }}
-            <div class="col-12 col-md-6">
+            <!-- <div class="col-12 col-md-6">
                 <div class="map">
                     <div id="map" data-lat="{{ .Site.Params.contact.mapLatitude }}" data-long="{{ .Site.Params.contact.mapLongitude }}" data-marker="{{ .Site.Params.contact.mapMarker | absURL }}"></div>
                 </div>
-            </div>
+            </div> -->
             {{ "<!-- Contact Form -->" | safeHTML }}
-            <div class="contact-form col-12 col-md-6 ">
+            <div class="contact-form col-12 ">
                 <form id="contact-form" method="post" action="sendmail.php" role="form">
                     <div class="form-group">
                         <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">

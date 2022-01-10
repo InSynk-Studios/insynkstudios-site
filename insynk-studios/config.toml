@@ -181,18 +181,18 @@ btnText = "Contact Us"
 name    = "about"
 url     = "about"
 weight  = 2
-[[menu.nav]]
-name    = "service"
-url     = "service"
-weight  = 3
-[[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
-weight  = 4
-[[menu.nav]]
-name    = "blog"
-url     = "blog"
-weight  = 5
+# [[menu.nav]]
+# name    = "service"
+# url     = "service"
+# weight  = 3
+# [[menu.nav]]
+# name    = "portfolio"
+# url     = "portfolio"
+# weight  = 4
+# [[menu.nav]]
+# name    = "blog"
+# url     = "blog"
+# weight  = 5
 [[menu.nav]]
 name    = "contact"
 url     = "contact"
