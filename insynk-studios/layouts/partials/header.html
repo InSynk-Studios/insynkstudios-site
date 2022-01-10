@@ -16,13 +16,11 @@
                             aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="tf-ion-android-menu"></span>
                         </button>
-                        <!-- Icones & drapeaux de choix des langues -->
-                        <div id="drapeaux" class="select-language d-block d-lg-none">
-                            <!-- Pour passer la langue actuelle (variable globale) dans la range => explicitement -->
+                        <!-- <div id="drapeaux" class="select-language d-block d-lg-none">
                             {{ range .Site.Params.listeLangues }}
                             {{ partial "flags.html" (dict "site" $.Site "liste" .) }}
                             {{ end }}
-                        </div>
+                        </div> -->
                     </div>
                     <div class="collapse navbar-collapse" id="navigation">
                         <ul class="navbar-nav ml-auto">
