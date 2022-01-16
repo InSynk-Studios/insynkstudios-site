@@ -1,42 +1,27 @@
 enable  : true
 topTitle: RECENT WORK
 title   : WORK SHOWCASE.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle: Our past work involves a variety of projects, consisting of web apps, websites and Blockchain Dapps.  
 
 filtermenu :
-  - name      : Photography
-    category  : photography
+  - name      : Blockchain Dapps
+    category  : blockchain
 
-  - name      : Ios App
-    category  : ios
-
-  - name      : Development
-    category  : development
-
-  - name      : Design
-    category  : design
+  - name      : Web apps
+    category  : web
+  
+  - name      : Landing pages & Websites
+    category  : landing
 
 item   :
-  - title : AirBnB Postcard
+  - title : NerdX - Decentralized Ethereum Exchange
     image : images/portfolio/portfolio-1.jpg
-    category  : photography
+    category  : blockchain, web
 
   - title : D Design
     image : images/portfolio/portfolio-2.jpg
-    category  : ios, design
+    category  : web
 
   - title : Xbox 360
     image : images/portfolio/portfolio-3.jpg
-    category  : photography, development
-
-  - title : Ballon Card
-    image : images/portfolio/portfolio-4.jpg
-    category  : ios
-
-  - title : Ready Toons
-    image : images/portfolio/portfolio-5.jpg
-    category  : design
-
-  - title : Illustration
-    image : images/portfolio/portfolio-6.jpg
-    category  : development
+    category  : web

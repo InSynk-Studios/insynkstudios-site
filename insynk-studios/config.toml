@@ -125,19 +125,19 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "Rapid Prototyping & Validation of your Blockchain Initiatives"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+heading = "We build your product for you."
+description = "Our forte lies in creating scalable, maintainable, and well-tested web apps & Dapps for our clients. Our teams' expertise in building products helps us to creat products that users get addicted to."
 button  = true
 btnText = "Know More"
-btnURL  = "https://themefisher.com/"
+btnURL  = "#services"
 videoThumb = "images/slider/hero.png"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+title   = "Our experience in agile product building, is what makes us different"
+description = "Our team has a past of working with startups that they helped scale to from nothing to thousands of users. Our approach always is user-driven, which means we do not start building unless we totally understand who is our product's user and what is our client's vision. Our team consits of experts from marketing, product management, to product engineering. We can help you build and scale with the following services."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -151,10 +151,10 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 enable  = true
 topTitle= "DROP US A NOTE"
 title   = "Contact Us."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone   = "(03) 9283 2617"
-fax     = "+61 3827 3590"
+subtitle= "If you think we can solve your problems then do not hesitate. Contact us as soon as possible!"
+address = "Ejipura, Bangalore, India"
+phone   = "(+91) 8696565066"
+# fax     = "+61 3827 3590"
 facebook= "https://www.facebook.com/"
 twitter = "https://twitter.com/"
 linkedin= "https://www.linkedin.com/"
@@ -177,10 +177,10 @@ btnText = "Contact Us"
 # Site Menus
 [menu]
 # Navbar Menus
-[[menu.nav]]
-name    = "about"
-url     = "about"
-weight  = 2
+# [[menu.nav]]
+# name    = "about"
+# url     = "about"
+# weight  = 2
 # [[menu.nav]]
 # name    = "service"
 # url     = "service"

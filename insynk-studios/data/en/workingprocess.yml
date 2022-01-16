@@ -1,28 +1,28 @@
 enable  : true
-topTitle: HOW WE WORKS
+topTitle: HOW WE WORK
 title   : Our Work Process
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle: We excel in working with fast-paced teams. Normally, our work process looks something like the following steps.
 item    :
   - number  : 1
     icon    : tf-ion-ios-briefcase-outline
-    title   : Project Analysis
+    title   : Requirement Analysis & Breakdown
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Here, we try to understand the exact vision of our client, while also breaking it down for both of us to stay on the same page. 
 
   - number  : 2
-    icon    : tf-ion-ios-alarm-outline
-    title   : Time Management
+    icon    : tf-ion-ios-albums-outline
+    title   : Prototyping and Mock-up Creation
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      In this stage, we create a prototype of the solution that we are offering for your problem. Prototypes can be both figma templates, or spec documents.
 
   - number  : 3
     icon    : tf-ion-ios-email-outline
-    title   : Mail Support
+    title   : On-Call Support
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      We provide on-call support throughout our journey with the client, to share progress, answer client's questions and to stay on the same page.
 
   - number  : 4
-    icon    : tf-ion-ios-locked-outline
-    title   : Secure System
+    icon    : tf-ion-ios-checkmark-outline
+    title   : Final Product
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      With all the above steps being executed properly, we eventually end up with a great deliverable that solves our clients problem, entirely.

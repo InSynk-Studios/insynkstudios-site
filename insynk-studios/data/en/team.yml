@@ -1,35 +1,32 @@
 enable  : true
 topTitle: TEAM MEMBER
 title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle: We are a set of people who have a wide experience working with product-based startups and companies. Our biggest expertise is understanding problems and solving them.
 
 member  :
   - image         : images/team/adarsh.png
     name          : Adarsh Sharma
     designation   : Software Engineer
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Worked as a Freelance data analyst for 1+ years, Adarsh has moved on to building full stack web apps. His favourite passtime is gaming and problem solving.
+    # facebookURL   : https://www.facebook.com/
+    # twitterURL    : https://twitter.com/
+    linkedinURL   : https://www.linkedin.com/in/adarsh-sharma-ab282a163/
 
   - image         : images/team/vishnu.png
     name          : Vishnu Narayan Malviya
     designation   : Co-Founder
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Worked in multiple startups, for 2+ years, as a marketing genie, Vishnu has helped teams scale their company by improving their product's user experience. 
+    # facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/VISHNU6390
+    linkedinURL   : https://www.linkedin.com/in/vishnu-narayan-malviya-3390a8145/
 
   - image         : images/team/aman.png
     name          : Aman Sharma
     designation   : Co-Founder
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Worked in fast-paced startups for 5+ years to build scalable, well-tested, applications. Right now, working on solving people's blockchain problems. 
+    # facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/nerdycap007
+    linkedinURL   : https://www.linkedin.com/in/amansharma007/

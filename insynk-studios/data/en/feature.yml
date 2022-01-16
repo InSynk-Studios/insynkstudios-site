@@ -1,16 +1,16 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : WordPress Theme
+  - icon  : tf-ion-cube
+    title : Blockchain Dapps
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      We are well-versed in Blockchain technologies like Solidity, Web3.js, etc. and we have a wide experience in React.js, Vue.js, etc. Thus, we can help you in building Dapps from ground up, or help you in places you get stuck.
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+  - icon  : tf-ion-code
+    title : Web Apps (Front-end)
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      We also provide services to build well-tested and scalable frontend, using React.js or Vue.js, for your web application. Due to our wide experience in working with agile teams and creating pixel perfect apps, while maintaining code quality, we excel in this field. 
 
-  - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+  - icon  : tf-ion-android-globe
+    title : Landing pages & Websites
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      We excel in building SEO optimized, pixel-perfected, clean Landing pages & Websites that attracts traffic and helps you grow your user base, dramatically.
