@@ -15,13 +15,6 @@ filtermenu :
 
 item   :
   - title : NerdX - Decentralized Ethereum Exchange
-    image : images/portfolio/portfolio-1.jpg
+    image : images/portfolio/NERDX_SCREENSHOT.png
     category  : blockchain, web
-
-  - title : D Design
-    image : images/portfolio/portfolio-2.jpg
-    category  : web
-
-  - title : Xbox 360
-    image : images/portfolio/portfolio-3.jpg
-    category  : web
+    url: https://github.com/InSynk-Studios/nerd-x

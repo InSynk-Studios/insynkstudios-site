@@ -1,6 +1,6 @@
 baseURL = "https://insynkstudios.com/"
 languageCode = "en-us"
-title = "InSynk Studios"
+title = "InSynk Studios | Developing SaaS Products, PoCs & MVPs for Rapid Validation!"
 theme = "navigator-hugo"
 summaryLength = 10
 
@@ -125,8 +125,8 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "We build your product for you."
-description = "Our forte lies in creating scalable, maintainable, and well-tested web apps & Dapps for our clients. Our teams' expertise in building products helps us to creat products that users get addicted to."
+heading = "We help you build the best version of your Product!"
+description = "We develop Products, PoCs & MVPs for Rapid Validation, in domains like Blockchain & SaaS. Our forte lies in creating scalable, maintainable, and well-tested Web apps & Ethereum Dapps for our clients."
 button  = true
 btnText = "Know More"
 btnURL  = "#services"
@@ -136,7 +136,7 @@ videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "Our experience in agile product building, is what makes us different"
+title   = "Our wide experience in the startup ecosystem, is what makes us different"
 description = "Our team has a past of working with startups that they helped scale to from nothing to thousands of users. Our approach always is user-driven, which means we do not start building unless we totally understand who is our product's user and what is our client's vision. Our team consits of experts from marketing, product management, to product engineering. We can help you build and scale with the following services."
 
 # Blog Section On Homepage

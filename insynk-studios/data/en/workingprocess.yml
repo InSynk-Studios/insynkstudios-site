@@ -7,13 +7,13 @@ item    :
     icon    : tf-ion-ios-briefcase-outline
     title   : Requirement Analysis & Breakdown
     description : >
-      Here, we try to understand the exact vision of our client, while also breaking it down for both of us, so that we stay on the same page. 
+      Here, we try to understand the exact vision of our client, and try to align our ideas with their their's. It is import to bring alignment. 
 
   - number  : 2
     icon    : tf-ion-ios-albums-outline
     title   : Prototyping and Mock-up Creation
     description : >
-      In this stage, we create a prototype of the solution that we are offering for your problem. Prototypes can be both figma templates, or product specs.
+      In this stage, we create a prototype of the solution that we are offering. Prototypes include mockups, or product specs.
 
   - number  : 3
     icon    : tf-ion-ios-email-outline
@@ -25,4 +25,4 @@ item    :
     icon    : tf-ion-ios-checkmark-outline
     title   : Final Product
     description : >
-      With all the above steps being executed properly, we eventually end up with a great deliverable that solves our clients problem, entirely.
+      With all the above steps being executed properly, we eventually end up with a great deliverable that solves our clients problem, beautifully.
