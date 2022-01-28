@@ -2,8 +2,24 @@
 {{ with $data.feature }}
     {{ if .enable }}
     {{ "<!-- Feature Section Start -->" | safeHTML }}
-    <section class="services section-xs" id="services">
+    <section class="services section" id="services">
         <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with .topTitle }}
+                            <h4>{{ . }}</h4>
+                        {{ end }}
+                        {{ with .title }}
+                            <h2>{{ . }}</h2>
+                            <span class="border"></span>
+                        {{ end }}
+                        {{ with .subtitle }}
+                            <p>{{ . }}</p>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
             <div class="row">
                 {{ range .item }}
                     {{ "<!-- Single Feature Item -->" | safeHTML }}

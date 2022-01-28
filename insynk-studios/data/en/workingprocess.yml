@@ -1,28 +1,40 @@
 enable  : true
 topTitle: HOW WE WORK
 title   : Our Work Process
-subtitle: We excel in working with fast-paced teams. Normally, our work process looks something like the following steps.
+subtitle: From ideating to building a fully functional MVP, here is what our work process looks like. (The timeline for the processes are listed)
 item    :
   - number  : 1
     icon    : tf-ion-ios-briefcase-outline
-    title   : Requirement Analysis & Breakdown
+    title   : Requirement Analysis & Ideating the Solution
     description : >
       Here, we try to understand the exact vision of our client, and try to align our ideas with their their's. It is import to bring alignment. 
 
   - number  : 2
     icon    : tf-ion-ios-albums-outline
-    title   : Prototyping and Mock-up Creation
+    title   : Wireframing and Storyboarding the Solution
     description : >
-      In this stage, we create a prototype of the solution that we are offering. Prototypes include mockups, or product specs.
+      In this stage, we start wireframing the solution and storyboarding the wireframes to get an early look of what the prototype might look like.
 
   - number  : 3
     icon    : tf-ion-ios-email-outline
-    title   : On-Call Support
+    title   : Feedback & Iteration on Prototype
     description : >
-      We provide on-call support throughout our journey with the client, to share progress, answer client's questions and to stay on the same page.
+      Here, we start iterating and gathering feedback over the wireframes and storyboards, in order to further improve the solution and see it aligns with the problem. 
 
   - number  : 4
-    icon    : tf-ion-ios-checkmark-outline
-    title   : Final Product
+    icon    : tf-desktop
+    title   : Delivering an Interactive Prototype
     description : >
-      With all the above steps being executed properly, we eventually end up with a great deliverable that solves our clients problem, beautifully.
+      [Estimated time till here is 5-8 Weeks] In this stage, we create the first clickable prototype of the solution. Prototypes include mockups, and product specs of the important components.
+
+  - number  : 5
+    icon    : tf-ion-ios-checkmark-outline
+    title   : Developing Proof of Concept
+    description : >
+      [Estimated time till here is 9-12 Weeks] After having the interative mockups in hand, we do a technology analysis and build out the first functional prototype with key feature sets. This can be used to check technical feasibility and collect initial data for building a new business case.
+
+  - number  : 6
+    icon    : tf-ion-ios-cog-outline
+    title   : Developing MVP
+    description : >
+      [Estimated time till here is 14-18 Weeks] A proof of concept acts as a building block for the Pilot MVP. Here we iterate over the insights and imporve the product features. We build out the remaining important components and constantly validate the problem & it's solution.

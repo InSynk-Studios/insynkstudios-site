@@ -1,20 +1,20 @@
 enable  : true
 topTitle: RECENT WORK
 title   : WORK SHOWCASE.
-subtitle: Our past work involves a variety of projects, consisting of web apps, websites and Blockchain Dapps.  
+subtitle: Here is a list of our most recent work, which includes Blockchain Dapps, Web apps, etc.
 
 filtermenu :
-  - name      : Blockchain Dapps
-    category  : blockchain
+  - name      : Prototype
+    category  : prototype
 
-  - name      : Web apps
-    category  : web
-  
-  - name      : Landing pages & Websites
-    category  : landing
+  - name      : PoC
+    category  : poc
+
+  - name      : MVP
+    category  : mvp
 
 item   :
   - title : NerdX - Decentralized Ethereum Exchange
     image : images/portfolio/NERDX_SCREENSHOT.png
-    category  : blockchain, web
+    category  : mvp
     url: https://github.com/InSynk-Studios/nerd-x

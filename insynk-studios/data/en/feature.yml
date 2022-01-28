@@ -1,16 +1,20 @@
 enable  : true
+topTitle: WHAT WE OFFER
+title   : Services
+subtitle: We offer the following services as stages from ideating to building an MVP. You may choose any one of the following services, depending on how far you want to validate your solution.
+
 item  :
-  - icon  : tf-ion-cube
-    title : Blockchain (Ethereum) Dapps
+  - icon  : tf-desktop
+    title : Rapid Prototyping
     description : >
-      We are well-versed in Blockchain technologies like Ethereum Tech, Solidity, Web3.js, etc. and we have a wide experience in React.js, Vue.js, etc. We can help you in building Dapps from ground up, or help you in places you get stuck.
+      After assessing your problem statement & vision, we deliver the most well-defined and interactive wireframes, storyboards and clickable mockups to help you quickly validate a problem statement by incorporating rapid feedback iteration loops. 
+  
+  - icon  : tf-ion-ios-checkmark-outline
+    title : Proof of Concept
+    description : >
+      A PoC is something that not only helps you validate your problem statement, but also it's implementation. We analyze the tech stack and deliver a functional prototype, after iterative Storyboarding & Wireframing. This acts as a strong validator for creating new business cases.
 
-  - icon  : tf-ion-code
-    title : Web Apps
+  - icon  : tf-ion-ios-cog-outline
+    title : MVP Development
     description : >
-      We also provide services to build well-tested and scalable web apps, using React.js or Vue.js & Node.js, for your web application. Due to our wide experience in working with agile teams and creating pixel perfect apps, while maintaining code quality, we excel in this field. 
-
-  - icon  : tf-ion-android-globe
-    title : Landing pages & Websites
-    description : >
-      We excel in building SEO optimized, pixel-perfected, clean Landing pages & Websites that attracts traffic and helps you grow your user base, dramatically.
+      If you are willing to build an MVP that you can monetize on, we offer a further development and validation of a proper MVP. This includes constant tech analysis, development & validation of problem statement of the new Pilot. 
