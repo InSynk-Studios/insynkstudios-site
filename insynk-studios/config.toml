@@ -1,6 +1,6 @@
 baseURL = "https://insynkstudios.com/"
 languageCode = "en-us"
-title = "InSynk Studios | Rapid Prototyping & Validating your Blockchain business cases!"
+title = "InSynk Studios | Rapid Prototyping & Validating your business cases!"
 theme = "navigator-hugo"
 summaryLength = 10
 
@@ -125,8 +125,8 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "Rapid Prototyping & Validating your Blockchain business cases!"
-description = "We develop Blockchain PoCs, Prototypes & MVPs. Our forte lies in creating maintainable and well-tested Web apps, Ethereum Dapps and more in the Web3 ecosystem."
+heading = "Rapid Prototyping & Validating your business cases!"
+description = "We develop PoCs, Prototypes & MVPs in domains like Blockchain. Our forte lies in creating scalable, maintainable and well-tested Web applications and Ethereum-based Decentralized applications. "
 button  = true
 btnText = "Know More"
 btnURL  = "#services"
