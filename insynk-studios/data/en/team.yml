@@ -13,6 +13,15 @@ member  :
     # twitterURL    : https://twitter.com/
     linkedinURL   : https://www.linkedin.com/in/adarsh-sharma-ab282a163/
 
+  - image         : images/team/ayushi.png
+    name          : Ayushi Pareek
+    designation   : Lead Designer
+    description   : >
+      Ayushi Pareek is a designer who likes to make beautiful + useful things. She previously led design at DeepSource and has been tinkering with interfaces for 4+ years.
+    # facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/post_merlot
+    linkedinURL   : https://www.linkedin.com/in/ayushipareek/
+
   - image         : images/team/vishnu.png
     name          : Vishnu Narayan Malviya
     designation   : Co-Founder

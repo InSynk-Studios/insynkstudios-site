@@ -125,7 +125,7 @@ expire_days = 2
 # Hero Area Section
 [Languages.en.params.hero]
 enable  = true
-heading = "Rapid Prototyping & Validating your business cases!"
+heading = "We, quickly, build and deliver beautiful MVPs!"
 description = "We develop PoCs, Prototypes & MVPs for SaaS and Blockchain companies. Our forte lies in creating scalable, maintainable and well-tested Web applications and Ethereum-based Decentralized applications. "
 button  = true
 btnText = "Know More"
