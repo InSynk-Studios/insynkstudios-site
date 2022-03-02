@@ -1,6 +1,6 @@
 baseURL = "https://insynkstudios.com/"
 languageCode = "en-us"
-title = "InSynk Studios | Build beautiful PoCs/MVPs!"
+title = "InSynk Studios | Build beautiful MVPs!"
 theme = "navigator-hugo"
 summaryLength = 10
 
@@ -126,7 +126,7 @@ expire_days = 2
 [Languages.en.params.hero]
 enable  = true
 # heading = "Rapid Prototyping & Validating your business cases!"
-heading = "We quickly build & deliver beautiful PoCs/MVPs!"
+heading = "We quickly build & deliver beautiful MVPs!"
 description = "We develop PoCs, Prototypes & MVPs for SaaS and Blockchain companies. Our forte lies in creating scalable, maintainable and well-tested Web applications and Ethereum-based Decentralized applications. "
 button  = true
 btnText = "Know More"
