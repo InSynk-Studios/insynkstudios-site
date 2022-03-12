@@ -129,8 +129,8 @@ enable  = true
 heading = "We quickly build & deliver beautiful MVPs!"
 description = "We develop PoCs, Prototypes & MVPs for SaaS and Blockchain companies. Our forte lies in creating scalable, maintainable and well-tested Web applications and Ethereum-based Decentralized applications. "
 button  = true
-btnText = "Know More"
-btnURL  = "#services"
+btnText = "Get Started!"
+btnURL  = "contact"
 videoThumb = "images/slider/hero.png"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
