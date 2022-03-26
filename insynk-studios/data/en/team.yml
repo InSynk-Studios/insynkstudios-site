@@ -24,7 +24,7 @@ member  :
 
   - image         : images/team/vishnu.png
     name          : Vishnu Narayan Malviya
-    designation   : Co-Founder
+    designation   : Founder
     description   : >
       Worked in multiple startups, for 2+ years, as a marketing genie, Vishnu has helped teams scale their company by improving their product's user experience. 
     # facebookURL   : https://www.facebook.com/
@@ -33,7 +33,7 @@ member  :
 
   - image         : images/team/aman.jpg
     name          : Aman Sharma
-    designation   : Co-Founder
+    designation   : Founder
     description   : >
       Worked in fast-paced startups for 5+ years to build scalable, well-tested applications. Right now, working on solving people's blockchain problems. 
     # facebookURL   : https://www.facebook.com/
